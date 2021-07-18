@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+body{
+    font-family: 'Work Sans', sans-serif;
+    margin: 0px;
+    background-image: url(groot5.jpg);
+    background-size: cover;
+
+}
+header,footer{
+
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+#output{
+    border: 1px solid black;
+    width: 50%;
+    height: 200px;
+    margin: 10px auto;
+    color: white;
+}
+#txtarea{
+    border: 1px solid black;
+    background:transparent;
+    display: block;
+    width:50%;
+    height: 200px;
+    margin: 10px auto;
+    font-size: xx-large;
+    color: white;
+}
+::placeholder{
+    font-size: x-large;
+    font-weight: bold;
+    color:whitesmoke;
+}
+#btn{
+    display: block;
+    margin: 10px auto;
+}
+
+footer{
+    padding: 1rem;
+    height: 40px;
+}
