@@ -5,6 +5,7 @@ body{
     margin: 0px;
     background-image: url(groot5.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
 
 }
 header,footer{
@@ -45,4 +46,7 @@ header,footer{
 footer{
     padding: 1rem;
     height: 40px;
+}
+::placeholder{
+    color: red;
 }
