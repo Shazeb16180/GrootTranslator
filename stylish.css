@@ -15,14 +15,14 @@ header,footer{
     color: white;
 }
 #output{
-    border: 1px solid black;
+    border: 1px solid whitesmoke;
     width: 50%;
     height: 200px;
     margin: 10px auto;
     color: white;
 }
 #txtarea{
-    border: 1px solid black;
+    border: 1px solid whitesmoke;
     background:transparent;
     display: block;
     width:50%;
@@ -50,6 +50,6 @@ body{
     background-image: url("groot.png");
     background-position:top;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size:auto;
 }
 
