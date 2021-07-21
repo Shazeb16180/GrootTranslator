@@ -3,9 +3,7 @@
 body{
     font-family: 'Work Sans', sans-serif;
     margin: 0px;
-    background-image: url(groot5.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+    background: #064E3B;
 
 }
 header,footer{
@@ -32,6 +30,7 @@ header,footer{
     margin: 10px auto;
     font-size: xx-large;
     color: white;
+    border-radius: 10px;
 }
 ::placeholder{
     font-size: x-large;
@@ -47,6 +46,10 @@ footer{
     padding: 1rem;
     height: 40px;
 }
-::placeholder{
-    color: red;
+body{
+    background-image: url("groot.png");
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: auto;
 }
+
