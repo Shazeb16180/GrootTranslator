@@ -40,6 +40,8 @@ header,footer{
 #btn{
     display: block;
     margin: 10px auto;
+    padding: 1rem;
+    border-radius: 5px;;
 }
 
 footer{
