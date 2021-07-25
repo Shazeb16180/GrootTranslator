@@ -44,14 +44,29 @@ header,footer{
     border-radius: 5px;;
 }
 
-footer{
-    padding: 1rem;
-    height: 40px;
-}
 body{
-    background-image: url("groot.png");
+    background-image: url("images/groot.png");
     background-position:top;
     background-repeat: no-repeat;
     background-size:auto;
 }
+
+
+footer img{
+    width:30px;
+}
+footer{
+    text-align: center;
+    display: block;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin: 2px;
+    display: inline;
+}
+
+
+
 
